@@ -1,0 +1,19 @@
+{
+  "name": "Level_29_Unit_Testen_TDD_van_A_tot_Z_Password_verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "jest-watch-typeahead": "^0.6.4"
+  }
+}
